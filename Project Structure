@@ -1,0 +1,13 @@
+typing_speed_test/
+├── app.py
+├── init_db.py
+├── static/
+│   ├── css/
+│   │   └── styles.css
+│   └── js/
+│       └── scripts.js
+├── templates/
+│   ├── index.html
+│   ├── result.html
+│   └── base.html
+└── typing_speed_test.db
